@@ -18,7 +18,7 @@ The project consists of the following main sections:
 - **Footer:** Provides contact information and copyright details.
 
 ### File Structure
-
+```bash
 project-root/
 │
 ├── css/
@@ -51,6 +51,7 @@ project-root/
 ├── index.html                # Main HTML file
 └── README.md                 # README file
 
+```
 
 ## Technologies Used
 - **HTML5:** For the structure of the website.
@@ -69,7 +70,7 @@ Ensure you have a modern web browser to view the website.
 ### Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/mamsy-house-recipe-book.git
+git clone https://github.com/Boitumellow012/RecipeBook
 ```
 
 ### Navigate to the project directory:
